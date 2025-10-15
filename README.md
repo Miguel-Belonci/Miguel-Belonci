@@ -1,5 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning about CSS, HTML and JS.
+- 🌱 I’m currently learning about React.Js
+
+
+  
 
 
